@@ -804,7 +804,7 @@ while not task_complete:
 
 ## 九、开源许可
 
-本项目采用 MIT 许可证开源。
+本项目采用 Apache-2.0 许可证开源。
 
 ### 贡献指南
 
@@ -813,12 +813,6 @@ while not task_complete:
 3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 开启 Pull Request
-
-### 联系方式
-
-- 项目主页：[GitHub Repository]
-- 问题反馈：[Issues]
-- 讨论交流：[Discussions]
 
 ---
 
